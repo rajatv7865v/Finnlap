@@ -1,0 +1,11 @@
+export { CiSearch } from "react-icons/ci";
+export { BsBell } from "react-icons/bs";
+export { BiUserCircle, BiLogOutCircle ,BiHomeAlt2,BiSolidInstitution} from "react-icons/bi";
+export { AiOutlineCaretDown } from "react-icons/ai";
+export { FiHelpCircle } from "react-icons/fi";
+export { IoSettingsOutline } from "react-icons/io5";
+export { FiEdit, } from "react-icons/fi";
+export { RxDashboard } from "react-icons/rx";
+export { PiStudent } from "react-icons/pi";
+export { GrTransaction } from "react-icons/gr";
+export { TbFileReport } from "react-icons/tb";
